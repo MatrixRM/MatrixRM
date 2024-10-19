@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" width="100%" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkzNzcwMjUsIm5iZiI6MTcyOTM3NjcyNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE5VDIyMjUyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwYWEzNjE1YmExMzE4YmU2ZDg4NGZkYzFjOTdlYjRjOTA1ZWY2Yzg1Y2IyZWM5ZjA5YzVhZDVhNWEyMDc4YjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PHar3SDdJOqB7WSAAIJVQjxZl6PaqmfU6R-cBk0CDJ0"  />
+</div>
+
+###
+
 <h1 align="left">Sobre Mim</h1>
 
 ###
@@ -49,10 +55,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatrixRM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatrixRM&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MatrixRM&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatrixRM&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatrixRM&layout=compact&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=MatrixRM&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+
 
 ###
 
