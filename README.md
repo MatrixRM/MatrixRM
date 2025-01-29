@@ -57,7 +57,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MatrixRM&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatrixRM&layout=compact&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=MatrixRM&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatrixRM&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats" />
+
 </div>
 
 
