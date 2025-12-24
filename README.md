@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,50:00796b,100:26a69a&height=220&text=Roberto%20Mânica&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,50:00796b,100:26a69a&height=220&section=header&text=Roberto%20Mânica&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ---
 
@@ -12,7 +11,7 @@ Atuo em ambientes <strong>Windows e Linux</strong>, com forte vivência em <stro
 <br><br>
 Tenho foco em <strong>desenvolvimento backend com Python e Django</strong>, integração com tecnologias frontend e automação de processos.
 Sou orientado a resultados, inovação e otimização operacional, sempre buscando entregar
-<strong>soluções tecnológicas que gerem valor real para o negócio</strong>.
+<strong>soluções tecnológicas que gerem valor real ao negócio</strong>.
 </p>
 
 ---
@@ -49,16 +48,6 @@ Sou orientado a resultados, inovação e otimização operacional, sempre buscan
 
 ---
 
-<h1 align="left">📈 Métricas do GitHub</h1>
-
-<div align="left">
-  <img src="https://img.shields.io/github/followers/MatrixRM?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/MatrixRM?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/last-commit/MatrixRM/MatrixRM?style=for-the-badge"/>
-</div>
-
----
-
 <h1 align="left">🚀 Áreas de atuação</h1>
 
 <ul>
@@ -80,7 +69,5 @@ Sou orientado a resultados, inovação e otimização operacional, sempre buscan
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,50:00796b,100:26a69a&height=120&section=footer"/>
