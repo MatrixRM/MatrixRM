@@ -1,22 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,50:00796b,100:26a69a&height=220&section=header&text=Roberto%20Mânica&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,50:00796b,100:26a69a&height=220&section=header&text=Roberto%20Mânica&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ---
 
-<h1 align="left">👋 Sobre mim</h1>
+## Sobre mim
 
-<p align="left">
-Profissional de Tecnologia da Informação com experiência sólida em <strong>suporte técnico, desenvolvimento de sistemas e administração de servidores</strong>.
-Atuo em ambientes <strong>Windows e Linux</strong>, com forte vivência em <strong>virtualização (VMware)</strong> e administração de bancos de dados como
-<strong>SQL Server, PostgreSQL e Oracle</strong>.
-<br><br>
-Tenho foco em <strong>desenvolvimento backend com Python e Django</strong>, integração com tecnologias frontend e automação de processos.
-Sou orientado a resultados, inovação e otimização operacional, sempre buscando entregar
-<strong>soluções tecnológicas que gerem valor real ao negócio</strong>.
-</p>
+Profissional de Tecnologia da Informação com experiência sólida em **suporte técnico, desenvolvimento de sistemas e administração de servidores**.
+
+Atuo em ambientes **Windows e Linux**, com forte vivência em **virtualização (VMware)** e administração de bancos de dados como **SQL Server, PostgreSQL e Oracle**.
+
+Com foco em **desenvolvimento backend com Python e Django**, integração com tecnologias frontend e automação de processos. Sou orientado a resultados, inovação e otimização operacional, sempre buscando entregar **soluções tecnológicas que gerem valor real ao negócio**.
 
 ---
 
-<h1 align="left">🛠️ Tecnologias & Ferramentas</h1>
+## Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -48,19 +44,17 @@ Sou orientado a resultados, inovação e otimização operacional, sempre buscan
 
 ---
 
-<h1 align="left">🚀 Áreas de atuação</h1>
+## Áreas de Atuação
 
-<ul>
-  <li>Desenvolvimento Backend com Python e Django</li>
-  <li>Automação de processos e integração de sistemas</li>
-  <li>Administração de servidores Linux e Windows</li>
-  <li>Infraestrutura, virtualização e suporte avançado</li>
-  <li>Bancos de dados e análise de dados</li>
-</ul>
+- **Desenvolvimento Backend** - Python e Django
+- **Automação de Processos** - Integração de sistemas
+- **Administração de Servidores** - Linux e Windows
+- **Infraestrutura & Virtualização** - VMware e suporte avançado
+- **Banco de Dados** - SQL Server, PostgreSQL, Oracle
 
 ---
 
-<h2 align="left">🌐 Conecte-se comigo</h2>
+## Conecte-se Comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/roberto-m%C3%A2nica-0876a21b7/" target="_blank">
